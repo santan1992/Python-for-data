@@ -1,0 +1,11 @@
+Model building and interpretation
+     
+a)	Build various models (You can choose to build models for either or all descriptive, predictive, or prescriptive purposes) ………………………………………………………………………………3-19.
+b)	Test your predictive model against the test set using various appropriate performance metrics…...19-23.
+c)	Interpretation of the model(s)……………………………………………………………………….23-24.
+
+2) Model Tuning and business implication
+    
+a)	Ensemble modelling, wherever applicable…………………………………………………………25-31.
+b)	Any other model tuning measures (if applicable) ………………………………………………….32-43.
+c)	Interpretation of the most optimum model and its implication on the business……………………44-45.
